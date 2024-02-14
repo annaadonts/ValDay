@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "I love you too! 😘";
+  question.innerHTML = "Happy Valentines Day my Sufs!! You are the best thing twitter has given me\n I'm so incredibly grateful to have a friend like you \nwho is as obssessed with sexy hot men as I am and hates the same ppl that I do.\nI love you so much babygrill *smirks*";
   gif.src =
     "https://media1.giphy.com/media/iCVzZwwE6QNAV2tEE0/giphy.gif";
 });
